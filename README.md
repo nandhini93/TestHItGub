@@ -1,2 +1,2 @@
 # TestHItGub
-Github Tutorial
+Github Tutorial IS A GOOD TUTORIAL FOR BEGINNER
